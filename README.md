@@ -1,2 +1,2 @@
 # TestGit
-Testing git
+My first try with GitHub !!
